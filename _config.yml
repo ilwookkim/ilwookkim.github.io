@@ -106,9 +106,9 @@ content:
         sub_title: Post-doctoral Bioinformatician
         caption: Oct 2019 - Dec 2020
         description: | # this will include new lines to allow paragraphs
-            Genome/Transcriptome-wide association study
-            Next-generation sequencing (NGS) analysis
-            Gene co-expression network analysis
+            * Genome/Transcriptome-wide association study
+            * Next-generation sequencing (NGS) analysis
+            * Gene co-expression network analysis
 
 
 
