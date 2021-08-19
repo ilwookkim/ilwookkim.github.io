@@ -48,7 +48,7 @@ linkedin_username: ilwook-kim-0682ab89
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Computational biologist with 3+ years' experience researching <mark>next-generation sequencing (NGS)</mark> and <mark>cancer genomics</mark> and postdoctoral researcher with +10 years' experience in molecular biology. Well-versed in programming languages including <mark>R</mark> for NGS analysis. Experience in both Computational biology and wet-lab experiments.
+  Computational biologist with 3+ years' experience researching <mark>next-generation sequencing (NGS)</mark> and <mark>cancer genomics</mark> and postdoctoral researcher with +10 years' experience in <mark>molecular biology</mark>. Well-versed in programming languages including <mark>R</mark> for NGS analysis. Experience in both Computational biology and wet-lab experiments.
 
 
 content:
