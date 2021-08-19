@@ -30,10 +30,10 @@ linkedin_username: ilwook-kim-0682ab89
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -93,6 +93,10 @@ content:
         title: Leibniz Institute on Aging – Fritz Lipmann Institute
         link: http://www.fli-leibniz.de/
         link_text: FLI
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
         sub_title: Guest Scientist
         caption: Jan 2021 - Present
         #quote: >
