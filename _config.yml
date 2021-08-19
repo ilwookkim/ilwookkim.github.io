@@ -201,8 +201,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           * High-performance Computing / Singularity (container engine)
 
+  - title: Development 
+    layout: list 
+    content:
+      - layout: left
+        title: R packages
+        description: | # this will include new lines to allow paragraphs
+          * [cgNetwork](https://github.com/ilwookkim/cgNetwork)
+          * [Goheatmap](https://github.com/ilwookkim/Goheatmap)
+          * [pmid2bibtexR](https://github.com/ilwookkim/pmid2bibtexR)
+          * [RanHexamer](https://github.com/ilwookkim/RanHexamer)
 
-  - title: A Little More About Me
+
+
+
+  - title: Development
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
