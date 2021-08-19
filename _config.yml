@@ -155,13 +155,51 @@ content:
           * Next Generation Sequencing-Datenauswertung
           * Anwendungsbezogene Biostatistik (R)
 
-  - title: Languages 
-    layout: list 
+
+  - title: Languages
+    layout: list
     content:
-      - layout: left
+      - layout: top-middle
         description: | # this will include new lines to allow paragraphs
           **English (fluent)**, German (Intermediate), Korean (Native)
 
+
+
+  - title: Skills 
+    layout: list 
+    content:
+      - layout: left
+        title: Programming
+        description: | # this will include new lines to allow paragraphs
+          * Proficient in: **R**
+          * Familiar with: Python / Bash
+          * Experience in: mySQL / snakemake
+
+      - layout: left
+        title: Biological Skills
+        description: | # this will include new lines to allow paragraphs
+          * 3D organoid culture / Circulating tumor cell isolation / Immunohistochemistry / Genome-wide screening / RNAi / Multicolor Flow cytometry / qPCR / Certificate of Experimental Animals in Research ‘equivalent to FELASA B’
+
+      - layout: left
+        title: Visualisation / Data handling / Data analysis
+        description: | # this will include new lines to allow paragraphs
+          * ggplot2 / Biocoductor / Adobe Illustrator / MS Office / Experience in: [R Shiny App](https://ilwookkim.shinyapps.io/dinetplot/) / Data-Preprocessing (Reduction/Imputation) / Machine Learning (Classification: Logistic regression/KNN/Neural network)
+
+     - layout: left
+        title: Reporting
+        description: | # this will include new lines to allow paragraphs
+          * Proficient in: **Rmarkdown**
+          * Familiar with: markdown / LaTeX
+
+      - layout: left
+        title: Operating Systems
+        description: | # this will include new lines to allow paragraphs
+          * Proficient in: **Linux** / MacOS / Windows
+
+      - layout: left
+        title: Another Skills
+        description: | # this will include new lines to allow paragraphs
+          * High-performance Computing / Singularity (container engine)
 
 
   - title: A Little More About Me
