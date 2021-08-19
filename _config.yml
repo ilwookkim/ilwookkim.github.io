@@ -104,7 +104,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             * Aging research using 3D mouse organoid model
 
-    content:
       - layout: left
         title: Biotechnology Center of the TU Dresden (Biotec)
         link: http://www.biotec.tu-dresden.de/
