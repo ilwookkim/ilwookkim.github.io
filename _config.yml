@@ -122,22 +122,39 @@ content:
     layout: list 
     content:
       - layout: left
-        title: Friedrich Schiller University Jena
-        caption: Jan 2014 - Nov 2017
+        title: Friedrich Schiller University Jena / Ulm University
+        caption: Jan 2014 - Nov 2017 / Jan 2011 - Dec 2013
         sub_title: Doktor der Naturwissenschaften (Dr. rer. nat)
         quote: >
           Leibniz Institute on Aging – Fritz Lipmann Institute
+          Max-Planck-Research Group on Stem Cell Aging
         description: | # this will include new lines to allow paragraphs
           * Thema : Sirt1 deletion improves intestinal atrophy in telomere dysfunctional mice by impairing induction of DNA damage responses.
           * Hematopoietic stem cells quiescence
           * HIV progression in aging
 
       - layout: left
-        title: Ulm University
-        caption: Jan 2011 - Dec 2013
-        sub_title: Doktor der Naturwissenschaften (Dr. rer. nat)
+        title: Kyonggi University, Korea
+        caption: Feb 2007 - Feb 2009
+        sub_title: Master of Science (M.Sc)
         quote: >
-          Max-Planck-Research Group on Stem Cell Aging
+          Department of Biology
+        description: | # this will include new lines to allow paragraphs
+          * Thema : Rapid detection of virulence stx2 gene of Enterohemorrhagic Escherichia coli using two-step ultra-rapid real-time PCR.
+          * Rapid detection of diseases of A. mellifera.
+
+      - layout: left
+        title: CQ Beratung+Bildung GmbH, Berlin
+        caption: May 2019 - Dec 2019
+        sub_title: Further education
+        quote: >
+          Weiterbildung für Biologen & Informatiker
+        description: | # this will include new lines to allow paragraphs
+          * Programmierung (Linux,C++) Python
+          * Bioinformatik und Biodatenbanken
+          * Next Generation Sequencing-Datenauswertung
+          * Anwendungsbezogene Biostatistik (R)
+
 
 
   - title: A Little More About Me
