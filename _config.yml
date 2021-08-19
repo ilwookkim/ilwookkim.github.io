@@ -123,10 +123,10 @@ content:
     content:
       - layout: left
         title: Friedrich Schiller University Jena / Ulm University
-        caption: Jan 2014 - Nov 2017 / Jan 2011 - Dec 2013
+        caption: Jan 2014 - Nov 2017   / Jan 2011 - Dec 2013
         sub_title: Doktor der Naturwissenschaften (Dr. rer. nat)
         quote: >
-          Leibniz Institute on Aging – Fritz Lipmann Institute
+          Leibniz Institute on Aging – Fritz Lipmann Institute /
           Max-Planck-Research Group on Stem Cell Aging
         description: | # this will include new lines to allow paragraphs
           * Thema : Sirt1 deletion improves intestinal atrophy in telomere dysfunctional mice by impairing induction of DNA damage responses.
